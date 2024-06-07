@@ -1,4 +1,4 @@
-// How do I find documents where an array field contains all of a set of values?
+// How do I find documents where an array field contains all of a set of values
 
 var express = require("express");
 var router = express.Router();
